@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=MxFirewall
+Type=Application
+Icon=mx-firewall
+Exec=/usr/local/mx/firewall/mxfirewall
+Path=/usr/local/mx/firewall/
+Categories=GTK;Utility;Application;
+Terminal=false
+StartupNotify=true

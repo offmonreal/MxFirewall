@@ -1,0 +1,10 @@
+//Linux
+# autoreconf --install && ./configure && make && make install
+
+//postmarketOS
+$ autoreconf --install && ./configure
+# make MY_CPPFLAGS="-DPOSTMARKETOS"
+# make install
+
+//Uninstall
+# make uninstall
